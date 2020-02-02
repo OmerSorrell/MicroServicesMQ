@@ -1,0 +1,8 @@
+C:\Users\osorrell\source\repos\MicroServicesMq\Messages\bin\Debug\netstandard2.0\Messages.deps.json
+C:\Users\osorrell\source\repos\MicroServicesMq\Messages\bin\Debug\netstandard2.0\Messages.dll
+C:\Users\osorrell\source\repos\MicroServicesMq\Messages\bin\Debug\netstandard2.0\Messages.pdb
+C:\Users\osorrell\source\repos\MicroServicesMq\Messages\obj\Debug\netstandard2.0\Messages.csprojAssemblyReference.cache
+C:\Users\osorrell\source\repos\MicroServicesMq\Messages\obj\Debug\netstandard2.0\Messages.AssemblyInfoInputs.cache
+C:\Users\osorrell\source\repos\MicroServicesMq\Messages\obj\Debug\netstandard2.0\Messages.AssemblyInfo.cs
+C:\Users\osorrell\source\repos\MicroServicesMq\Messages\obj\Debug\netstandard2.0\Messages.dll
+C:\Users\osorrell\source\repos\MicroServicesMq\Messages\obj\Debug\netstandard2.0\Messages.pdb
